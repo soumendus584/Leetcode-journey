@@ -34,4 +34,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/soumendus584/Leetcode-journey/tree/master/0203-remove-linked-list-elements) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
