@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/soumendus584/Leetcode-journey/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
