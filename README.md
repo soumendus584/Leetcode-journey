@@ -88,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/soumendus584/Leetcode-journey/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/soumendus584/Leetcode-journey/tree/master/0178-rank-scores) |
+| [0511-game-play-analysis-i](https://github.com/soumendus584/Leetcode-journey/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
