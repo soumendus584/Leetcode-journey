@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Tree
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Simulation
 |  |
 | ------- |
