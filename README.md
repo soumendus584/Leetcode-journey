@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/soumendus584/Leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/soumendus584/Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/soumendus584/Leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/soumendus584/Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/soumendus584/Leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/soumendus584/Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/soumendus584/Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 ## Database
 |  |
 | ------- |
