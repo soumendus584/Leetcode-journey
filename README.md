@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/soumendus584/Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
+| [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
 | ------- |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/soumendus584/Leetcode-journey/tree/master/3499-maximize-active-section-with-trade-i) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
