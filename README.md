@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/soumendus584/Leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/soumendus584/Leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumendus584/Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/soumendus584/Leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/soumendus584/Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/soumendus584/Leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/soumendus584/Leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/soumendus584/Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/soumendus584/Leetcode-journey/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
