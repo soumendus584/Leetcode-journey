@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0437-path-sum-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/soumendus584/Leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/soumendus584/Leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/soumendus584/Leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Database
 |  |
 | ------- |
@@ -184,10 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/soumendus584/Leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/soumendus584/Leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
 | ------- |
