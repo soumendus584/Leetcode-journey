@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumendus584/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0997-find-the-town-judge](https://github.com/soumendus584/Leetcode-journey/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/soumendus584/Leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/soumendus584/Leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumendus584/Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/soumendus584/Leetcode-journey/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/soumendus584/Leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumendus584/Leetcode-journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/soumendus584/Leetcode-journey/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/soumendus584/Leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/soumendus584/Leetcode-journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Segment Tree
