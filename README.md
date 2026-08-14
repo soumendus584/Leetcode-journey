@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumendus584/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/soumendus584/Leetcode-journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0337-house-robber-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumendus584/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/soumendus584/Leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumendus584/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumendus584/Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumendus584/Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumendus584/Leetcode-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumendus584/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
