@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/soumendus584/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumendus584/Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soumendus584/Leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/soumendus584/Leetcode-journey/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumendus584/Leetcode-journey/tree/master/3312-sorted-gcd-pair-queries) |
+| [3904-smallest-stable-index-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
