@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/soumendus584/Leetcode-journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/soumendus584/Leetcode-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/soumendus584/Leetcode-journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0213-house-robber-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/soumendus584/Leetcode-journey/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/soumendus584/Leetcode-journey/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/soumendus584/Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumendus584/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soumendus584/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/soumendus584/Leetcode-journey/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumendus584/Leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumendus584/Leetcode-journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
