@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/soumendus584/Leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumendus584/Leetcode-journey/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/soumendus584/Leetcode-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/soumendus584/Leetcode-journey/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/soumendus584/Leetcode-journey/tree/master/1872-stone-game-viii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/soumendus584/Leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/soumendus584/Leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/soumendus584/Leetcode-journey/tree/master/0257-binary-tree-paths) |
+| [0940-distinct-subsequences-ii](https://github.com/soumendus584/Leetcode-journey/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/soumendus584/Leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/soumendus584/Leetcode-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/soumendus584/Leetcode-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
